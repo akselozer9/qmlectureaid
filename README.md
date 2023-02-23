@@ -1,0 +1,2 @@
+# qmlectureaid
+qm lecture aid
